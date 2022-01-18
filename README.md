@@ -1,7 +1,5 @@
 ### 谋定而后动 知止而有得 🧐
-![](https://visitor-badge.glitch.me/badge?page_id=An4w1r.readme)
-![](http://antzuhl.cn:4000/get/@An4w1r.readme)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An4w1r&show_icons=true&theme=dark)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=An4w1r)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
