@@ -1,4 +1,7 @@
 ### 谋定而后动 知止而有得 🧐
+![](https://visitor-badge.glitch.me/badge?page_id=An4w1r.readme)
+![](http://antzuhl.cn:4000/get/@An4w1r.readme)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An4w1r&show_icons=true&theme=dark)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -12,7 +15,7 @@
 
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; ![WEB](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; 
 ![内网](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![PHP](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Python](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -22,6 +25,4 @@
 ### 关于我
 ---
 待补充
-![](https://visitor-badge.glitch.me/badge?page_id=An4w1r.readme)
-![](http://antzuhl.cn:4000/get/@An4w1r.readme)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An4w1r&show_icons=true&theme=dark)
+
