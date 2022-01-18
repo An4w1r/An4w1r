@@ -22,4 +22,3 @@
 待补充
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=An4w1r)](https://github.com/anuraghazra/github-readme-stats)
-![](http://antzuhl.cn:4000/get/@An4w1r.readme)
