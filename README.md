@@ -12,11 +12,9 @@
 
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; 
-![内网](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &#160; ![PHP](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Python](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Java](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
+- 💻 &#160; WEB安全
+- 🌐 &#160; 内网渗透
+- 🔧 &#160; 安全开发
 
 
 ### 关于我
@@ -24,3 +22,4 @@
 待补充
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=An4w1r)](https://github.com/anuraghazra/github-readme-stats)
+![](http://antzuhl.cn:4000/get/@An4w1r.readme)
