@@ -1,5 +1,4 @@
 ### 谋定而后动 知止而有得 🧐
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=An4w1r)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -24,3 +23,4 @@
 ---
 待补充
 
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=An4w1r)](https://github.com/anuraghazra/github-readme-stats)
