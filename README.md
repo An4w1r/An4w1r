@@ -5,17 +5,8 @@
 ### I'm WsyKer
 
 - 一个啥也不会的安服仔
-- 🌱 WEB狗
-- ⭐ 想学代码但始终学不会
-- 💬 联系方式：A2!xvnTd;Is@GO[n{Ibgb  --大佬带带
-- ⚡ 爱好打篮球，吹牛逼
-
-
-### 🛠 技术栈 | Tech Stack
-- 💻 &#160; WEB安全
-- 🌐 &#160; 内网渗透
-- 🔧 &#160; 安全开发
-- 🍪 &#160; 代码审计
-
+- 🌱 WEB狗，目前就职于安博通
+- 🚀 努力学习中...
+- 🛠 技术栈：外网打点、内网渗透、代码审计
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WsyKer&show_icons=true&theme=radical)
